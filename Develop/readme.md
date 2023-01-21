@@ -1,4 +1,4 @@
-# Team Profile Generator
+# readme-generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -14,29 +14,29 @@
 
 ### Installation:
 
-Download Repo and run "node index.js" in the intergrated terminal of the same file.
+download the repo from my github, and run node index.js on the index.js file using the integrated terminal.
 
 
 ### Usage:
 
-Organization, and creating lists, use it as you seem fit.
+to create a readme
 
 
 ## Description:
 
- Here I have created a node.js application that creates an HTML webpage that displays summeries and info for a list of team members, following prompts within the node application.
+ Quickly creates a readme.md
 
 
 
 
 ### Test:
 
-* running node index.js
+* running node index.js in integrated terminal.
 
 
 ### Contributing:
 
-* send me an email for contributions or questions regarding the app @dillonlloyd@hotmail.com
+* email me dillonlloyd@hotmail.com
 
 Email: 
 
@@ -44,5 +44,5 @@ Email:
 
 Github: 
 
-* Rayjohn666
+* rayjohn666
 

@@ -50,9 +50,14 @@ function generateMarkdown(data) {
 ${data.installation}
 
 
+
+
 ### Usage:
 
 ${data.usage}
+
+
+
 
 
 ## Description:
@@ -64,18 +69,27 @@ ${data.usage}
 
 ### Test:
 
+
+
+
 * ${data.test}
 
 
 ### Contributing:
 
+
+
 * ${data.contribute}
 
 Email: 
 
+
+
 * ${data.email}
 
 Github: 
+
+
 
 * ${data.github}
 
