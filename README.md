@@ -17,6 +17,12 @@
 
   ## Usage
   To use this application after installation, open the integrated terminal on the index.js file and run 'node index.js'. Answer the questions and a readme will be generated for you!
+  
+  ## Video Demo:
+  
+  https://drive.google.com/file/d/1oq7VazNnGDLgb9UduLhjarbdFBPZA6xB/view
+  
+  
 
   ## License
   This app is covered under the [MIT License](https://opensource.org/licenses/MIT)<br>
